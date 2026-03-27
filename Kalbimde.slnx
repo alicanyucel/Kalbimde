@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Kalbimde/Kalbimde.Application/Kalbimde.Application.csproj" />
+  <Project Path="Kalbimde/Kalbimde.Domain/Kalbimde.Domain.csproj" />
+  <Project Path="Kalbimde/Kalbimde.Infrastructure/Kalbimde.Infrastructure.csproj" />
+  <Project Path="Kalbimde/Kalbimde.WebAPI/Kalbimde.WebAPI.csproj" />
+</Solution>
