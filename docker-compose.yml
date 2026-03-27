@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  kalbimde.webapi:
+    build:
+      context: .
+      dockerfile: Kalbimde.WebAPI/Dockerfile
+    ports:
+      - "8080:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    depends_on: []
